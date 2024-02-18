@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/424.0.0.25.113;FBPN/com.facebook.orca;FBLC/en_US;FBBV/510343531;FBCR/Verizon ;FBMF/motorola;FBBD/motorola;FBDV/moto g play - 2023;FBSV/12;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.75,width=720,height=1439};FB_FW/1;]
+[FBAN/FB4A;FBAV/292.0.0.61.123;FBPN/com.facebook.katana;FBLC/ru_RU;FBBV/251145728;FBCR/MegaFon;FBMF/Meizu;FBBD/Meizu;FBDV/M5 Note;FBSV/7.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;FBRV/0;]
