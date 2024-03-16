@@ -1,1 +1,1 @@
-[FBAN/EMA;FBBV/470353487;FBAV/353.0.0.5.112;FBDV/Samsung Galaxy S21;FBLC/id_ID;FBNG/WIFI;FBMNT/METERED;FBDM/{density=3.0}]
+Dalvik/2.1.0 (Linux; U; Android 13; SM-G780G Build/TP1A.220624.014) [FBAN/Orca-Android;FBAV/435.0.0.32.108;FBPN/com.facebook.orca;FBLC/pt_BR;FBBV/537314828;FBCR/VIVO;FBMF/samsung;FBBD/samsung;FBDV/SM-G780G;FBSV/13;FBCA/arm64-v8a:null;FBDM/{density=3.0,width=1080,height=2168};FB_FW/1
